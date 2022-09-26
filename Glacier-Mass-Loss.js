@@ -1,3 +1,5 @@
+//Bar Chart Representing the Mean Loss in Glacier Mass Over Time
+
 let table;
 let meanLoss;
 let years;
