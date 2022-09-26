@@ -1,6 +1,6 @@
 //Neha Aryasomayajula
 
-//Create a visualization that uses height as a visual channel to encode the height of 5
+//A visualization that uses height as a visual channel to encode the height of 5
 //buildings in New York City. 
 
 values = [85.0, 86.9, 184.1, 443.2, 260.0];
