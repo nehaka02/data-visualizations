@@ -1,3 +1,5 @@
+///Interactive Bar Chart Representing the Distribution of U.S Government Budget in 2021
+
 let table;
 let defaultColor = "#B6DFEA";
 let hoverColor = "#6192A0";
