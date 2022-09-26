@@ -1,5 +1,5 @@
 //Neha Aryasomayajula
-//Arrays and Loops-- Interactive Visualization
+//Interactive Bar Chart Representing Heights of Buildings in New York
 
 values = [85.0, 86.9, 184.1, 443.2, 260.0];
 let blue1 = 100;
