@@ -1,5 +1,5 @@
 // Neha Aryasomayajula
-// Create a visualization that uses color as a visual channel to encode the amount of
+// An interactive, pictoral visualization that uses color as a visual channel to encode the amount of
 // rainfall in 5 or more areas.
 
 function setup() {
